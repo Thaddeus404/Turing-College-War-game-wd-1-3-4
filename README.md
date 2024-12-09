@@ -1,1 +1,2 @@
-# Turing-College-War-game-wd-1-3-4
+# Turing-College War Game
+This will be my codespace for Pair Programming Exercise
